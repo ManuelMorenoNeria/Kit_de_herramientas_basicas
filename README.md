@@ -1,7 +1,8 @@
 # Kit de herramientas basicas
 ![Portada](/Imagenes/software-1.jpg)
 ## 1.- Información del sistema
- - [HWiNFO]()
+ - [HWiNFO](/Programas/InfoSistemas.md)
+ ![images](/Imagenes/images.jpg)
 
 
 ## 2.- Testeo disco
