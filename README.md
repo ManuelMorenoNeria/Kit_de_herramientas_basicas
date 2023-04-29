@@ -25,3 +25,4 @@
 - Daniel Ruiz
 
 ## Licencia
+![licencia](/Imagenes/licencia.png)
