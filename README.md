@@ -1,7 +1,10 @@
 # Kit de herramientas basicas
 ![Portada](/Imagenes/software-1.jpg)
 ## 1.- Información del sistema
- - [HWiNFO](/Programas/InfoSistemas.md)
+- HWiNFO
+ - [¡Clica aquí para saber más sobre como conocer tu sistema!](/Programas/InfoSistemas.md)
+
+
  ![images](/Imagenes/images.jpg)
 
 
