@@ -11,11 +11,11 @@
 
 
 ## 2.- Testeo disco
-
+[¡Clica aquí para saber más sobre como evaluar la salud y rendimiento de tu disco!](/Programas/TesteoDisco.md)
 ## 3.- Recuperación de datos
-
+[¡Clica aquí para saber más sobre como recuperar datos perdidos!](/Programas/TesteoDisco.md)
 ## 4.- Recuperación de contraseñas.
-
+[¡Clica aquí para saber más sobre como recuperar contraseñas!](/Programas/RecuperarContraseña.md)
 ## 5.- LIBRE
 
 
