@@ -1,5 +1,5 @@
 # Kit de herramientas basicas
-
+[Portada](/imagenes/software-.1)
 ## 1.- Información del sistema
  - [HWiNFO]()
 
