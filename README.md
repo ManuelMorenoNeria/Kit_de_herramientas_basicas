@@ -2,10 +2,10 @@
 ![Portada](/Imagenes/software-1.jpg)
 ## 1.- Información del sistema
 - HWiNFO
- - [¡Clica aquí para saber más sobre como conocer tu sistema!](/Programas/InfoSistemas.md)
-
-
  ![images](/Imagenes/images.jpg)
+
+[¡Clica aquí para saber más sobre como conocer tu sistema!](/Programas/InfoSistemas.md)
+
 
 
 ## 2.- Testeo disco
