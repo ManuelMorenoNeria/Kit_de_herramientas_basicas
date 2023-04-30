@@ -17,7 +17,8 @@ Para obtener información del sistemas recomendamos el programa HWiNFO
 ## 4.- Recuperación de contraseñas.
 [¡Clica aquí para saber más sobre como recuperar contraseñas!](/Programas/RecuperacionContraseñas.md)
 ## 5.- LIBRE
- ![images](/Imagenes/R.jpg)
+ ![images](/Imagenes/R.png)
+ 
 [¡Clica aquí para saber más sobre MSI AFTERBURNER!](/Programas/Libre.md)
 ## Trabajo hecho por:
 - Manuel Moreno Neria
