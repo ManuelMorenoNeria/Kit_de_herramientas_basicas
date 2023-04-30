@@ -1,7 +1,7 @@
 # Kit de herramientas basicas
 ![Portada](/Imagenes/software-1.jpg)
 ## 1.- Información del sistema
-- Para obtener información del sistemas recomendamos el programa HWiNFO
+Para obtener información del sistemas recomendamos el programa HWiNFO
 
 
  ![images](/Imagenes/images.jpg)
