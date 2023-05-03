@@ -25,6 +25,8 @@ Para obtener documentos borrados por accidente recomendamos el programa recuva
 
 [¡Clica aquí para saber más sobre como recuperar datos perdidos!](/Programas/RecuperacionDatos.md)
 ## 4.- Recuperación de contraseñas.
+![images](/Imagenes/bitwarden-hero.png)
+
 [¡Clica aquí para saber más sobre como recuperar contraseñas!](/Programas/RecuperacionContraseñas.md)
 ## 5.- LIBRE
  ![images](/Imagenes/R.png)
